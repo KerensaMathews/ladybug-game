@@ -1,3 +1,5 @@
+*This was a Udacity project designed to display JavaScript skills. It was given after a unit of immersive study in object-oriented JavaScript.*
+
 # Ladybugger
 
 You are Lady Felyne, a lone warrior traveling through hostile territory, at the beginning of a long and dangerous mission. In this episode, you must cross a cobblestone path full of enemy soldiers. Your refuge is the alligator-infested river on the other side. (Let's hope you're a quick swimmer.)
